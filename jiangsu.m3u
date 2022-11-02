@@ -161,8 +161,6 @@ http://223.110.241.139:6610/gitv/live1/G_ZHONGGUOJT/G_ZHONGGUOJT/
 http://223.110.241.139:6610/gitv/live1/G_CHONGQING/G_CHONGQING/
 #EXTINF:-1,云南 Ⅰ 红河综合台 (1080p)
 http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
-#EXTINF:-1,半岛新闻 (1080p)
-https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,华数 (720p) [Not 24/7]
 http://hls-ott-zhibo.wasu.tv/live/442/index.m3u8
 #EXTINF:-1,南京少儿 (720p) [Not 24/7]
@@ -211,8 +209,8 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 http://59.23.231.102:1935/live/UBCstream/playlist.m3u8
 #EXTINF:-1,TBS Seoul (720p)
 https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-#EXTINF:-1,Al Jazeera English (1080p)
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/c/aljazeeraenglish/live
+#EXTINF:-1,半岛新闻 (1080p)
+https://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1,BBC News HD (720p) [Geo-blocked]
 https://cdnuk001.broadcastcdn.net/KUK-BBCNEWSHD/index.m3u8
 #EXTINF:-1,Bloomberg TV EMEA Live Event (720p)
@@ -225,17 +223,17 @@ https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 http://183.99.22.189:9981/stream/channelid/1124346476
 #EXTINF:-1,原住民電視 (720p)
 http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
-#EXTINF:-1,壹電視新聞台 (1080p)
-http://stream.nexttv.com.tw/n001/hd/live.m3u8
 #EXTINF:-1,大立電視 (720p)
 http://www.dalitv.com.tw:4568/live/dali/index.m3u8
-#EXTINF:-1,民視 (720p) [Not 24/7]
-http://seb.sason.top/ptv/ftv.php?id=ms
 #EXTINF:-1,TVBS Asia (1080p)
 http://38.64.72.148/hls/modn/list/4005/playlist.m3u8
-#EXTINF:-1,ABC News (1080p)
-https://dai2.xumo.com/amagi_hls_data_xumo1212A-abcnews/CDN/master.m3u8
 #EXTINF:-1,FOX News Now (720p)
 https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1,CNN
 https://cnn-cnninternational-1-gb.samsung.wurl.com/manifest/playlist.m3u8 
+#EXTINF:-1,NHK
+https://eja.tv/?46a5d8b1bc4654b568d0df41adfd8913.m3u8
+#EXTINF:-1,ABC
+https://eja.tv/?10d6a7488d4d24731583530ed0047492.m3u8
+#EXTINF:-1,CNA
+https://eja.tv/?06391d7f875c8b375b6db9a59a17cddb.m3u8
