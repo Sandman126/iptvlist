@@ -40,6 +40,48 @@ http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 #EXTINF:-1,CCTV-NEWS
 http://223.110.241.139:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
+
+#EXTM3U8
+#EXTINF:-1 group-title="央视",CCTV-1蓝光
+http://223.110.241.139:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
+#EXTINF:-1 group-title="央视",CCTV-2蓝光
+http://223.110.241.139:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
+#EXTINF:-1 group-title="央视",CCTV-3蓝光
+http://223.110.241.139:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
+#EXTINF:-1 group-title="央视",CCTV-4超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
+#EXTINF:-1 group-title="央视",CCTV-5+蓝光
+http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
+#EXTINF:-1 group-title="央视",CCTV-5蓝光
+http://223.110.241.139:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
+#EXTINF:-1 group-title="央视",CCTV-6蓝光
+http://223.110.241.139:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
+#EXTINF:-1 group-title="央视",CCTV-7超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
+#EXTINF:-1 group-title="央视",CCTV-8蓝光
+http://223.110.241.139:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
+#EXTINF:-1 group-title="央视",CCTV-9超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
+#EXTINF:-1 group-title="央视",CCTV-10超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
+#EXTINF:-1 group-title="央视",CCTV-11超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
+#EXTINF:-1 group-title="央视",CCTV-12超清
+http://223.110.241.139:6610/gitv/live1/CCTV-12/CCTV-12/
+#EXTINF:-1 group-title="央视",CCTV-13超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
+#EXTINF:-1 group-title="央视",CCTV-14超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
+#EXTINF:-1 group-title="央视",CCTV-15超清
+http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
+#EXTINF:-1 group-title="央视",CCTV16
+http://ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8 
+#EXTINF:-1 group-title="央视",CCTV17
+http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV4K
+http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
+#EXTINF:-1 group-title="央视",CCTV-NEWS
+http://223.110.241.139:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
 #EXTINF:-1,CETV-1
 http://223.110.241.139:6610/gitv/live1/G_CETV-1/G_CETV-1/
 #EXTINF:-1,CETV-2
