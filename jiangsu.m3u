@@ -1,176 +1,176 @@
 ﻿#EXTM3U8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/7/7a/CCTV-1_Logo.png/320px-CCTV-1_Logo.png" group-title="央视",CCTV-1蓝光
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV1.png" group-title="央视",CCTV-1蓝光
 http://223.110.241.139:6610/gitv/live1/G_CCTV-1-CQ/G_CCTV-1-CQ/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/6/6f/CCTV-2_Logo.png/320px-CCTV-2_Logo.png" group-title="央视",CCTV-2蓝光
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV2.png" group-title="央视",CCTV-2蓝光
 http://223.110.241.139:6610/gitv/live1/G_CCTV-2-CQ/G_CCTV-2-CQ/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/4/4f/CCTV-3_Logo.png/320px-CCTV-3_Logo.png" group-title="央视",CCTV-3蓝光
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV3.png" group-title="央视",CCTV-3蓝光
 http://223.110.241.139:6610/gitv/live1/G_CCTV-3-CQ/G_CCTV-3-CQ/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-4_Logo.png/320px-CCTV-4_Logo.png" group-title="央视",CCTV-4超清
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV4.png" group-title="央视",CCTV-4超清
 http://223.110.241.139:6610/gitv/live1/G_CCTV-4-HQ/G_CCTV-4-HQ/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-5%2B_Logo.png/320px-CCTV-5%2B_Logo.png" group-title="央视",CCTV-5+蓝光
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV5+.png" group-title="央视",CCTV-5+蓝光
 http://223.110.241.139:6610/gitv/live1/G_CCTV-5PLUS-CQ/G_CCTV-5PLUS-CQ/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-5_Logo.png/320px-CCTV-5_Logo.png" group-title="央视",CCTV-5蓝光
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV5.png" group-title="央视",CCTV-5蓝光
 http://223.110.241.139:6610/gitv/live1/G_CCTV-5-CQ/G_CCTV-5-CQ/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-6_Logo.png/320px-CCTV-6_Logo.png" group-title="央视",CCTV-6蓝光
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV6.png" group-title="央视",CCTV-6蓝光
 http://223.110.241.139:6610/gitv/live1/G_CCTV-6-CQ/G_CCTV-6-CQ/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-7_Logo.png/320px-CCTV-7_Logo.png" group-title="央视",CCTV-7超清
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV7.png" group-title="央视",CCTV-7超清
 http://223.110.241.139:6610/gitv/live1/G_CCTV-7-HQ/G_CCTV-7-HQ/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-8_Logo.png/320px-CCTV-8_Logo.png" group-title="央视",CCTV-8蓝光
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV8.png" group-title="央视",CCTV-8蓝光
 http://223.110.241.139:6610/gitv/live1/G_CCTV-8-CQ/G_CCTV-8-CQ/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-9_Logo.png/320px-CCTV-9_Logo.png" group-title="央视",CCTV-9超清
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV9.png" group-title="央视",CCTV-9超清
 http://223.110.241.139:6610/gitv/live1/G_CCTV-9/G_CCTV-9/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-10_Logo.png/320px-CCTV-10_Logo.png" group-title="央视",CCTV-10超清
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV10.png" group-title="央视",CCTV-10超清
 http://223.110.241.139:6610/gitv/live1/G_CCTV-10-HQ/G_CCTV-10-HQ/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-11_Logo.png/320px-CCTV-11_Logo.png" group-title="央视",CCTV-11超清
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV11.png" group-title="央视",CCTV-11超清
 http://223.110.241.139:6610/gitv/live1/G_CCTV-11-HQ/G_CCTV-11-HQ/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-12_Logo.png/320px-CCTV-12_Logo.png" group-title="央视",CCTV-12超清
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV12.png" group-title="央视",CCTV-12超清
 http://223.110.241.139:6610/gitv/live1/CCTV-12/CCTV-12/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-13_Logo.png/320px-CCTV-13_Logo.png" group-title="央视",CCTV-13超清
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV13.png" group-title="央视",CCTV-13超清
 http://223.110.241.139:6610/gitv/live1/G_CCTV-13-HQ/G_CCTV-13-HQ/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-14_Logo.png/320px-CCTV-14_Logo.png" group-title="央视",CCTV-14超清
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV14.png" group-title="央视",CCTV-14超清
 http://223.110.241.139:6610/gitv/live1/G_CCTV-14/G_CCTV-14/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-15_Logo.png/320px-CCTV-15_Logo.png" group-title="央视",CCTV-15超清
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV15.png" group-title="央视",CCTV-15超清
 http://223.110.241.139:6610/gitv/live1/G_CCTV-15/G_CCTV-15/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-16_Logo.png/320px-CCTV-16_Logo.png" group-title="央视",CCTV16
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV16.png" group-title="央视",CCTV16
 http://ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-17_Logo.png/320px-CCTV-17_Logo.png" group-title="央视",CCTV17
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV17.png" group-title="央视",CCTV17
 http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-4K_Logo.png/320px-CCTV-4K_Logo.png" group-title="央视",CCTV4K
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTV4K.png" group-title="央视",CCTV4K
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CCTV-NEWS_Logo.png/320px-CCTV-NEWS_Logo.png" group-title="央视",CCTV-NEWS
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CCTVNEWS.png" group-title="央视",CCTV-NEWS
 http://223.110.241.139:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CETV-1_Logo.png/320px-CETV-1_Logo.png" group-title="教育",CETV-1
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CETV1.png" group-title="教育",CETV-1
 http://223.110.241.139:6610/gitv/live1/G_CETV-1/G_CETV-1/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CETV-2_Logo.png/320px-CETV-2_Logo.png" group-title="教育",CETV-2
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CETV2.png" group-title="教育",CETV-2
 http://223.110.241.139:6610/gitv/live1/G_CETV-2/G_CETV-2/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CETV-3_Logo.png/320px-CETV-3_Logo.png" group-title="教育",CETV-3
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CETV3.png" group-title="教育",CETV-3
 http://223.110.241.139:6610/gitv/live1/G_CETV-3/G_CETV-3/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CETV-4_Logo.png/320px-CETV-4_Logo.png" group-title="教育",CETV-4
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CETV4.png" group-title="教育",CETV-4
 http://223.110.241.139:6610/gitv/live1/G_CETV-4/G_CETV-4/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/SDETV_Logo.png/320px-SDETV_Logo.png" group-title="教育",山东教育电视台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/SDETV.png" group-title="教育",山东教育电视台
 http://223.110.241.139:6610/gitv/live1/G_SDETV/G_SDETV/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/JSJY_Logo.png/320px-JSJY_Logo.png" group-title="教育",江苏教育
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/JSJY.png" group-title="教育",江苏教育
 http://223.110.241.139:6610/gitv/live1/G_JSJY/G_JSJY/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/NJJK_Logo.png/320px-NJJK_Logo.png" group-title="教育",南京科教
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/NJJK.png" group-title="教育",南京科教
 http://223.110.241.139:6610/gitv/live1/G_NJJK/G_NJJK/
 
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/ANDUO_Logo.png/320px-ANDUO_Logo.png" group-title="卫视",安多卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/ANDUO.png" group-title="卫视",安多卫视
 http://223.110.241.139:6610/gitv/live1/G_ANDUO/G_ANDUO/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/AHWS_Logo.png/320px-AHWS_Logo.png" group-title="卫视",安徽卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/AHWS.png" group-title="卫视",安徽卫视
 http://223.110.241.139:6610/gitv/live1/AHWS/AHWS/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/BEIJING_Logo.png/320px-BEIJING_Logo.png" group-title="卫视",北京卫视超清-8M
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/BEIJING.png" group-title="卫视",北京卫视超清-8M
 http://223.110.241.139:6610/gitv/live1/G_BEIJING-CQ/G_BEIJING-CQ/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/BINGTUAN_Logo.png/320px-BINGTUAN_Logo.png" group-title="卫视",兵团卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/BINGTUAN.png" group-title="卫视",兵团卫视
 http://223.110.241.139:6610/gitv/live1/G_BINGTUAN/G_BINGTUAN/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/DONGFANG_Logo.png/320px-DONGFANG_Logo.png" group-title="卫视",东方卫视超清-8M
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/DONGFANG.png" group-title="卫视",东方卫视超清-8M
 http://223.110.241.139:6610/gitv/live1/G_DONGFANG-CQ/G_DONGFANG-CQ/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/DNWS_Logo.png/320px-DNWS_Logo.png" group-title="卫视",东南卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/DNWS.png" group-title="卫视",东南卫视
 http://223.110.241.139:6610/gitv/live1/DNWS/DNWS/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/GANSU_Logo.png/320px-GANSU_Logo.png" group-title="卫视",甘肃卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/GANSU.png" group-title="卫视",甘肃卫视
 http://223.110.241.139:6610/gitv/live1/G_GANSU/G_GANSU/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/GXWS_Logo.png/320px-GXWS_Logo.png" group-title="卫视",广西卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/GXWS.png" group-title="卫视",广西卫视
 http://223.110.241.139:6610/gitv/live1/GXWS/GXWS/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/GUIZHOU_Logo.png/320px-GUIZHOU_Logo.png" group-title="卫视",贵州卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/GUIZHOU.png" group-title="卫视",贵州卫视
 http://223.110.241.139:6610/gitv/live1/G_GUIZHOU/G_GUIZHOU/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/HEBEI_Logo.png/320px-HEBEI_Logo.png" group-title="卫视",河北卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/HEBEI.png" group-title="卫视",河北卫视
 http://223.110.241.139:6610/gitv/live1/G_HEBEI/G_HEBEI/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/HENAN_Logo.png/320px-HENAN_Logo.png" group-title="卫视",河南卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/HENAN.png" group-title="卫视",河南卫视
 http://223.110.241.139:6610/gitv/live1/HENAN/HENAN/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/HEILONGJIANG_Logo.png/320px-HEILONGJIANG_Logo.png" group-title="卫视",黑龙江卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/HEILONGJIANG.png" group-title="卫视",黑龙江卫视
 http://223.110.241.139:6610/gitv/live1/G_HEILONGJIANG/G_HEILONGJIANG/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/HUBEI_Logo.png/320px-HUBEI_Logo.png" group-title="卫视",湖北卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/HUBEI.png" group-title="卫视",湖北卫视
 http://223.110.241.139:6610/gitv/live1/G_HUBEI/G_HUBEI/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/HUNAN_Logo.png/320px-HUNAN_Logo.png" group-title="卫视",湖南卫视超清-8M
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/HUNAN.png" group-title="卫视",湖南卫视超清-8M
 http://223.110.241.139:6610/gitv/live1/G_HUNAN-CQ/G_HUNAN-CQ/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/JILIN_Logo.png/320px-JILIN_Logo.png" group-title="卫视",吉林卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/JILIN.png" group-title="卫视",吉林卫视
 http://223.110.241.139:6610/gitv/live1/G_JILIN/G_JILIN/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/JIANGSU_Logo.png/320px-JIANGSU_Logo.png" group-title="卫视",江苏卫视超清
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/JIANGSU.png" group-title="卫视",江苏卫视超清
 http://223.110.241.139:6610/gitv/live1/G_JIANGSU-CQ/G_JIANGSU-CQ/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/JXWS_Logo.png/320px-JXWS_Logo.png" group-title="卫视",江西卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/JXWS.png" group-title="卫视",江西卫视
 http://223.110.241.139:6610/gitv/live1/JXWS/JXWS/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/KANGBA_Logo.png/320px-KANGBA_Logo.png" group-title="卫视",康巴卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/KANGBA.png" group-title="卫视",康巴卫视
 http://223.110.241.139:6610/gitv/live1/G_KANGBA/G_KANGBA/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/LNWS_Logo.png/320px-LNWS_Logo.png" group-title="卫视",辽宁卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/LNWS.png" group-title="卫视",辽宁卫视
 http://223.110.241.139:6610/gitv/live1/LNWS/LNWS/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/LYWS_Logo.png/320px-LYWS_Logo.png" group-title="卫视",旅游卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/LYWS.png" group-title="卫视",旅游卫视
 http://223.110.241.139:6610/gitv/live1/LYWS/LYWS/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/NANFANG_Logo.png/320px-NANFANG_Logo.png" group-title="卫视",南方卫视（广东）
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/NANFANG.png" group-title="卫视",南方卫视（广东）
 http://223.110.241.139:6610/gitv/live1/G_NANFANG/G_NANFANG/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/NEIMENGGU_Logo.png/320px-NEIMENGGU_Logo.png" group-title="卫视",内蒙古卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/NEIMENGGU.png" group-title="卫视",内蒙古卫视
 http://223.110.241.139:6610/gitv/live1/G_NEIMENGGU/G_NEIMENGGU/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/NINGXIA_Logo.png/320px-NINGXIA_Logo.png" group-title="卫视",宁夏卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/NINGXIA.png" group-title="卫视",宁夏卫视
 http://223.110.241.139:6610/gitv/live1/G_NINGXIA/G_NINGXIA/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/QINGHAI_Logo.png/320px-QINGHAI_Logo.png" group-title="卫视",青海卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/QINGHAI.png" group-title="卫视",青海卫视
 http://223.110.241.139:6610/gitv/live1/G_QINGHAI/G_QINGHAI/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/XIAMEN_Logo.png/320px-XIAMEN_Logo.png" group-title="卫视",厦门卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/XIAMEN.png" group-title="卫视",厦门卫视
 http://223.110.241.139:6610/gitv/live1/G_XIAMEN/G_XIAMEN/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/SHANDONG_Logo.png/320px-SHANDONG_Logo.png" group-title="卫视",山东卫视超清
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/SHANDONG.png" group-title="卫视",山东卫视超清
 http://223.110.241.139:6610/gitv/live1/G_SHANDONG-HQ/G_SHANDONG-HQ/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/SXWS_Logo.png/320px-SXWS_Logo.png" group-title="卫视",山西卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/SXWS.png" group-title="卫视",山西卫视
 http://223.110.241.139:6610/gitv/live1/SXWS/SXWS/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/SHANXI_Logo.png/320px-SHANXI_Logo.png" group-title="卫视",陕西卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/SHANXI.png" group-title="卫视",陕西卫视
 http://223.110.241.139:6610/gitv/live1/G_SHANXI/G_SHANXI/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/SHENZHEN_Logo.png/320px-SHENZHEN_Logo.png" group-title="卫视",深圳卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/SHENZHEN.png" group-title="卫视",深圳卫视
 http://223.110.241.139:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/SCWS_Logo.png/320px-SCWS_Logo.png" group-title="卫视",四川卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/SCWS.png" group-title="卫视",四川卫视
 http://223.110.241.139:6610/gitv/live1/SCWS/SCWS/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/TJWS_Logo.png/320px-TJWS_Logo.png" group-title="卫视",天津卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/TJWS.png" group-title="卫视",天津卫视
 http://223.110.241.139:6610/gitv/live1/TJWS/TJWS/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/XIZANG_Logo.png/320px-XIZANG_Logo.png" group-title="卫视",西藏卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/XIZANG.png" group-title="卫视",西藏卫视
 http://223.110.241.139:6610/gitv/live1/G_XIZANG/G_XIZANG/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/XINJIANG_Logo.png/320px-XINJIANG_Logo.png" group-title="卫视",新疆卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/XINJIANG.png" group-title="卫视",新疆卫视
 http://223.110.241.139:6610/gitv/live1/G_XINJIANG/G_XINJIANG/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/YANBIAN_Logo.png/320px-YANBIAN_Logo.png" group-title="卫视",延边卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/YANBIAN.png" group-title="卫视",延边卫视
 http://223.110.241.139:6610/gitv/live1/G_YANBIAN/G_YANBIAN/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/YUNNAN_Logo.png/320px-YUNNAN_Logo.png" group-title="卫视",云南卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/YUNNAN.png" group-title="卫视",云南卫视
 http://223.110.241.139:6610/gitv/live1/G_YUNNAN/G_YUNNAN/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/ZHEJIANG_Logo.png/320px-ZHEJIANG_Logo.png" group-title="卫视",浙江卫视超清
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/ZHEJIANG.png" group-title="卫视",浙江卫视超清
 http://223.110.241.139:6610/gitv/live1/G_ZHEJIANG-CQ/G_ZHEJIANG-CQ/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/CHONGQING_Logo.png/320px-CHONGQING_Logo.png" group-title="卫视",重庆卫视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/CHONGQING.png" group-title="卫视",重庆卫视
 http://223.110.241.139:6610/gitv/live1/G_CHONGQING/G_CHONGQING/
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/JIAJIA_Logo.png/320px-JIAJIA_Logo.png" group-title="少儿",嘉佳卡通
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/JIAJIA.png" group-title="少儿",嘉佳卡通
 http://223.110.241.139:6610/gitv/live1/G_JIAJIA/G_JIAJIA/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/JINYING_Logo.png/320px-JINYING_Logo.png" group-title="少儿",金鹰卡通
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/JINYING.png" group-title="少儿",金鹰卡通
 http://223.110.241.139:6610/gitv/live1/G_JINYING/G_JINYING/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/KAKU_Logo.png/320px-KAKU_Logo.png" group-title="少儿",卡酷少儿
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/KAKU.png" group-title="少儿",卡酷少儿
 http://223.110.241.139:6610/gitv/live1/G_KAKU/G_KAKU/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/XUANDONG_Logo.png/320px-XUANDONG_Logo.png" group-title="少儿",炫动卡通
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/XUANDONG.png" group-title="少儿",炫动卡通
 http://223.110.241.139:6610/gitv/live1/G_XUANDONG/G_XUANDONG/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/YOUMAN_Logo.png/320px-YOUMAN_Logo.png" group-title="少儿",优漫卡通
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/YOUMAN.png" group-title="少儿",优漫卡通
 http://223.110.241.139:6610/gitv/live1/G_YOUMAN/G_YOUMAN/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/NJSEPD_Logo.png/320px-NJSEPD_Logo.png" group-title="少儿",南京少儿
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/NJSEPD.png" group-title="少儿",南京少儿
 http://live.nbs.cn/channels/njtv/sepd/m3u8:500k/live.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/ZJSEPD_Logo.png/320px-ZJSEPD_Logo.png" group-title="少儿",浙江少儿
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/ZJSEPD.png" group-title="少儿",浙江少儿
 http://hw-m-l.cztv.com/channels/lantian/channel08/720p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/FZSEPD_Logo.png/320px-FZSEPD_Logo.png" group-title="少儿",福州少儿
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/FZSEPD.png" group-title="少儿",福州少儿
 http://live.zohi.tv/video/s10001-sepd-4/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/JSCS_Logo.png/320px-JSCS_Logo.png" group-title="地方",江苏城市
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/JSCS.png" group-title="地方",江苏城市
 http://223.110.241.139:6610/gitv/live1/G_JSCS/G_JSCS/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/JSGG_Logo.png/320px-JSGG_Logo.png" group-title="地方",江苏公共
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/JSGG.png" group-title="地方",江苏公共
 http://223.110.241.139:6610/gitv/live1/G_JSGG/G_JSGG/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/NJSB_Logo.png/320px-NJSB_Logo.png" group-title="地方",南京十八
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/NJSB.png" group-title="地方",南京十八
 http://223.110.241.139:6610/gitv/live1/G_NJSB/G_NJSB/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/NJXW_Logo.png/320px-NJXW_Logo.png" group-title="地方",南京新闻综合
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/NJXW.png" group-title="地方",南京新闻综合
 http://223.110.241.139:6610/gitv/live1/G_NJXW/G_NJXW/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/ZJ6T_Logo.png/320px-ZJ6T_Logo.png" group-title="地方",浙江6套
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/ZJ6T.png" group-title="地方",浙江6套
 http://hw-m-l.cztv.com/channels/lantian/channel06/1080p.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/FZTV_Logo.png/320px-FZTV_Logo.png" group-title="地方",福州综合
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/FZTV.png" group-title="地方",福州综合
 http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/XATV_Logo.png/320px-XATV_Logo.png" group-title="地方",西安新闻
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/XATV.png" group-title="地方",西安新闻
 http://stream2.xiancity.cn/xatv1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/HHZH_Logo.png/320px-HHZH_Logo.png" group-title="地方",云南红河综合台
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/HHZH.png" group-title="地方",云南红河综合台
 http://file.hhtv.cc/cms/videos/nmip-media/channellive/channel1/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/JSTY_Logo.png/320px-JSTY_Logo.png" group-title="地方",江苏休闲体育
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/JSTY.png" group-title="地方",江苏休闲体育
 http://223.110.241.139:6610/gitv/live1/G_JSTY/G_JSTY/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/JSYS_Logo.png/320px-JSYS_Logo.png" group-title="地方",江苏影视
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/JSYS.png" group-title="地方",江苏影视
 http://223.110.241.139:6610/gitv/live1/G_JSYS/G_JSYS/
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/9/9c/JSJC_Logo.png/320px-JSJC_Logo.png" group-title="地方",京视剧场
-http://223.110.241.139:
+#EXTINF:-1 tvg-logo="https://live.fanmingming.cn/tv/JSJC.png" group-title="地方",京视剧场
+http://223.110.241.139:6610/gitv/live1/G_JSJC/G_JSJC/
 
 
 
