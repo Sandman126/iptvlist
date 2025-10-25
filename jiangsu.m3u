@@ -49,7 +49,7 @@ http://223.110.241.139:6610/gitv/live1/G_CETV-2/G_CETV-2/
 http://223.110.241.139:6610/gitv/live1/G_CETV-3/G_CETV-3/
 #EXTINF:-1 tvg-logo="https://live.126413.xyz/tv/CETV4.png" group-title="教育",CETV-4
 http://223.110.241.139:6610/gitv/live1/G_CETV-4/G_CETV-4/
-#EXTINF:-1 tvg-logo="https://live.126413.xyz/tv/SDETV.png" group-title="教育",山东教育电视台
+#EXTINF:-1 tvg-logo="https://live.126413.xyz/tv/山东教育.png" group-title="教育",山东教育电视台
 http://223.110.241.139:6610/gitv/live1/G_SDETV/G_SDETV/
 #EXTINF:-1 tvg-logo="https://live.126413.xyz/tv/江苏教育电视台.png" group-title="教育",江苏教育
 http://223.110.241.139:6610/gitv/live1/G_JSJY/G_JSJY/
