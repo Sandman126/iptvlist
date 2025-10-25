@@ -37,7 +37,7 @@ http://ott.mobaibox.com/PLTV/3/224/3221228112/index.m3u8
 http://ott.mobaibox.com/PLTV/3/224/3221227592/index.m3u8
 #EXTINF:-1 tvg-logo="https://live.126413.xyz/tv/CCTV4K.png" group-title="央视",CCTV4K
 http://ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
-#EXTINF:-1 tvg-logo="https://live.126413.xyz/tv/CCTVNEWS.png" group-title="央视",CCTV-NEWS
+#EXTINF:-1 tvg-logo="https://live.126413.xyz/tv/CGTN.png" group-title="央视",CCTV-NEWS
 http://223.110.241.139:6610/gitv/live1/G_CCTV-NEWS/G_CCTV-NEWS/
 
 
@@ -51,7 +51,7 @@ http://223.110.241.139:6610/gitv/live1/G_CETV-3/G_CETV-3/
 http://223.110.241.139:6610/gitv/live1/G_CETV-4/G_CETV-4/
 #EXTINF:-1 tvg-logo="https://live.126413.xyz/tv/SDETV.png" group-title="教育",山东教育电视台
 http://223.110.241.139:6610/gitv/live1/G_SDETV/G_SDETV/
-#EXTINF:-1 tvg-logo="https://live.126413.xyz/tv/JSJY.png" group-title="教育",江苏教育
+#EXTINF:-1 tvg-logo="https://live.126413.xyz/tv/江苏教育电视台.png" group-title="教育",江苏教育
 http://223.110.241.139:6610/gitv/live1/G_JSJY/G_JSJY/
 #EXTINF:-1 tvg-logo="https://live.126413.xyz/tv/NJJK.png" group-title="教育",南京科教
 http://223.110.241.139:6610/gitv/live1/G_NJJK/G_NJJK/
